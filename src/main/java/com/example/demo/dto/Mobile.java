@@ -5,5 +5,6 @@ public class Mobile {
     String operator;
     String serviceType;
     String validity;
+    String type;
 
 }
